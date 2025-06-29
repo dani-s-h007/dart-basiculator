@@ -16,7 +16,7 @@ The user is prompted to choose an operation and input two numbers, and the resul
 
 ---
 
-## 📥 Input Format
+## Input Format
 
 - The program first displays a menu with 7 choices.
 - User enters a number between 1 and 7 to select the operation.
@@ -24,7 +24,7 @@ The user is prompted to choose an operation and input two numbers, and the resul
 
 ---
 
-## 💻 Sample Usage
+## Sample Usage
 
 ```
 Welcome to BasiCulator
