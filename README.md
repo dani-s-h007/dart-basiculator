@@ -52,4 +52,4 @@ Result: 6.0 * 7.0 = 42.0
 
 ```bash
 git clone https://github.com/dani-s-h007/dart-basiculator.git
-cd the-story-of-me-dart
+cd dart-basiculator
